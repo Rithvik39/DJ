@@ -1,0 +1,40 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0;
+}
+.note{
+    color: chartreuse;
+    font-size: 18px;
+}
+body{
+    background-size: cover;
+}
+.div_speed{
+    float: left;
+    margin-left: 25px;
+}
+.div_img{
+    width: 300px;
+    border-radius: 150px;
+}
+#speed{
+    font-size: 25px;
+    margin-right: 35px;
+}
+.div_volume{
+    float: right;
+    margin-right: 25px;
+}
+#volume{
+    font-size: 25px;
+    margin-right: 35px;
+}
+.play_button{
+    font-size: 25px;
+    width: 130px;
+}
+canvas{
+    border: 5px solid cyan;
+    border-radius: 15px;
+}
